@@ -5,7 +5,7 @@
 > clone代码并进入代码路径
 
 ```shell
-git clone git@github.com:lsgwr/spring-boot-online-exam.git
+[git clone git@github.com:lsgwr/spring-boot-online-exam.git](https://github.com/improveyour/spring-boot-online-exam.git)
 cd spring-boot-online-exam
 ```
 
